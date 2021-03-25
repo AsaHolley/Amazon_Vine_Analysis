@@ -5,7 +5,7 @@ Using Google Colab notebook, pyspark, and sample reviews from an Amazon S3 datab
 
 ## Results ##
 
-The results can be reviewed in the ipynp file located [link to results (https://github.com/AsaHolley/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_Vine_Analysis.ipynb) 
+The results can be reviewed in the ipynp file located [link to results](https://github.com/AsaHolley/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_Vine_Analysis.ipynb) 
 
 * **How many Vine reviews and non-Vine reviews were there?** A total of 
 
